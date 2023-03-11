@@ -1,0 +1,27 @@
+[
+    {
+        "id" : "S1",
+        "name" : "Aman",
+        "class" : "9th"
+    },
+    {
+        "id" : "S2",
+        "name" : "Amir",
+        "class" : "8th"
+    },
+    {
+        "id" : "S3",
+        "name" : "Amin",
+        "class" : "7th"
+    },
+    {
+        "id" : "S4",
+        "name" : "Ajay",
+        "class" : "9th"
+    },
+    {
+        "id" : "S5",
+        "name" : "Ajan",
+        "class" : "6th"
+    }
+]

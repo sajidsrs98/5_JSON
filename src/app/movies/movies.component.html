@@ -1,0 +1,26 @@
+<div class="container">
+    <div class="row">
+        <div class="col-xs-12">
+            <h3>Movies List</h3>
+            <hr>
+            <table class = "table table-hover">
+                <thead>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Release Date</th>
+                    <th>Earning</th>
+                    <th>Rating</th>
+                </thead>
+                <tbody *ngFor="let movie of movies">
+                    <tr>
+                        <td>{{ movie.id }}</td>
+                        <td>{{ movie.name }}</td>
+                        <td>{{ movie.releaseDate }}</td>
+                        <td>{{ movie.earning }}</td>
+                        <td>{{ movie.rating }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

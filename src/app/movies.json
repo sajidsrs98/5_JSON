@@ -1,0 +1,71 @@
+[
+    {
+        "id" : 101,
+        "name" : "Black Sword",
+        "releaseDate" : "01/01/2000",
+        "earning" : 2000000,
+        "rating" : 4.5
+    },
+    {
+        "id" : 102,
+        "name" : "Black Ship",
+        "releaseDate" : "01/02/2000",
+        "earning" : 3000000,
+        "rating" : 4.6
+    },
+    {
+        "id" : 103,
+        "name" : "Black Dragon",
+        "releaseDate" : "01/03/2000",
+        "earning" : 5000000,
+        "rating" : 4.9
+    },
+    {
+        "id" : 104,
+        "name" : "Lighting Sword",
+        "releaseDate" : "01/07/2000",
+        "earning" : 4000000,
+        "rating" : 4.7
+    },
+    {
+        "id" : 105,
+        "name" : "King Swan",
+        "releaseDate" : "01/09/2000",
+        "earning" : 2700000,
+        "rating" : 4.2
+    },
+    {
+        "id" : 106,
+        "name" : "Light Ways",
+        "releaseDate" : "01/10/2000",
+        "earning" : 2990000,
+        "rating" : 4.1
+    },
+    {
+        "id" : 107,
+        "name" : "Sweet Lime",
+        "releaseDate" : "01/11/2000",
+        "earning" : 9000000,
+        "rating" : 4.4
+    },{
+        "id" : 108,
+        "name" : "The Emperor",
+        "releaseDate" : "01/12/2000",
+        "earning" : 9900000,
+        "rating" : 4.3
+    },
+    {
+        "id" : 109,
+        "name" : "Simple Puzzle",
+        "releaseDate" : "01/03/2002",
+        "earning" : 8000000,
+        "rating" : 4.8
+    },
+    {
+        "id" : 110,
+        "name" : "Dark King",
+        "releaseDate" : "01/01/2001",
+        "earning" : 2770000,
+        "rating" : 3.9
+    }
+]
